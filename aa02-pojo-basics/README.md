@@ -18,7 +18,7 @@ The `npm install` commands will install all the testing dependencies.
 
 The `npm test` command will run all the tests. If you have any trouble with this
 don't hesitate to ask a TA for help!
-
+hahahsh
 When you finish your project, don't forget to add your project to your Github!
 
   1. Go to [Github][github]
