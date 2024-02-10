@@ -12,7 +12,16 @@ console.log(arrayConverter(["apple", "banana", "potato", "banana"])); // => {app
 ***********************************************************************/
 
 function arrayConverter(array) {
-  // Your code here 
+  let counts = 0;
+
+  for(let value of array){
+    if (count[value] === undefined){
+      counts[value] = 1;
+    } else{
+      counts[value]++
+    }
+  }
+      return counts;
 }
 
 /**************DO NOT MODIFY ANYTHING UNDER THIS  LINE*****************/
